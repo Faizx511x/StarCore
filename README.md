@@ -1,0 +1,2 @@
+# StarCore
+LobbyCore for Pocketmine
