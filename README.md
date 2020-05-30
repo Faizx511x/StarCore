@@ -1,2 +1,3 @@
 # StarCore
-LobbyCore for Pocketmine
+LobbyCore for Pocketmine Servers
+Version: 2.0.0
